@@ -1,4 +1,4 @@
 nodejs
 ======
 
-learning Node.js
+to try examples and practice Node.js through interaction with git
